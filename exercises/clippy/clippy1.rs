@@ -9,8 +9,8 @@
 // Execute `rustlings hint clippy1` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
 
+#![allow(clippy::approx_constant)] 
 use std::f32;
 
 fn main() {
